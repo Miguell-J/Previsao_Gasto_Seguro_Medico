@@ -1,4 +1,4 @@
-# Modelo de Previsão de Custos de Seguro Médico
+# Modelo Deep Learning de Previsão de Custos de Seguro Médico
 
 <img src="https://www.notibras.com/site/wp-content/uploads/2020/05/218337-o-que-e-inteligencia-artificial-e-qual-seu-impacto-nos-negocios.jpg"/>
 
