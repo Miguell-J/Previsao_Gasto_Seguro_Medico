@@ -1,5 +1,7 @@
 # Modelo de Previsão de Custos de Seguro Médico
 
+<img src="https://www.notibras.com/site/wp-content/uploads/2020/05/218337-o-que-e-inteligencia-artificial-e-qual-seu-impacto-nos-negocios.jpg"/>
+
 Este documento contém um guia detalhado e explicativo para o código Python apresentado, que é um exemplo de construção e treinamento de um modelo de aprendizado de máquina para prever os custos de seguro médico com a ajuda do TensorFlow e outras bibliotecas relevantes. O código é dividido em várias etapas, e este README fornecerá uma visão geral e descrição de cada parte do código.
 
 ## Sumário
